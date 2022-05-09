@@ -8,7 +8,7 @@ I'm a Software Engineer
 *   🚀  I'm currently working on [Briidge](http://briidge.live)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on SaaS projects
-*   ⚡  I like Cycling & Coffee
+*   ⚡  I like Cycling, Photography & Coffee
 
 <a href="https://www.twitter.com/SarthiParth" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/SarthiParth?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
